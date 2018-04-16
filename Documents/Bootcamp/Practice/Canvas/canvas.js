@@ -4,7 +4,10 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 
+
+
 var c = canvas.getContext("2d");
+
 
 
 // color = "#" + Math.floor(Math.random() * 10000)
